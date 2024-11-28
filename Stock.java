@@ -1,5 +1,5 @@
 package observerPattern;
-
+//concrete subject
 import java.util.List;
 
 public class Stock implements StockSubject{

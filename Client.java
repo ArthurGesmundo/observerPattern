@@ -1,5 +1,5 @@
 package observerPattern;
-
+//concreteO
 public class Client implements ClientObserver{
 
     private String clientName;
